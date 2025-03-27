@@ -1,2 +1,6 @@
 # MyLeetCodeNote
-The note of my leetcode practices.
+leetcode 刷題紀錄
+
+## Array
+## Linked List
+## Hash
