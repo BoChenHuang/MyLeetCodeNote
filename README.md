@@ -10,4 +10,5 @@ leetcode 刷題紀錄
 * 43. Multiply Strings (Medium)
 
 ## Linked List
+* 203. Remove Linked List Elements (Easy)
 ## Hash
