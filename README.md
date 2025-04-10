@@ -11,4 +11,5 @@ leetcode 刷題紀錄
 
 ## Linked List
 * 203. Remove Linked List Elements (Easy)
+* 707. Design Linked List (Medium)
 ## Hash
