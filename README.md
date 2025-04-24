@@ -13,5 +13,6 @@ leetcode 刷題紀錄
 * 203. Remove Linked List Elements (Easy)
 * 707. Design Linked List (Medium)
 * 206. Reverse Linked List (Easy)
+* 24. Swap Nodes in Pairs (Medium)
 
 ## Hash
