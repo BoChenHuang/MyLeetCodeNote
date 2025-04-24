@@ -14,5 +14,6 @@ leetcode 刷題紀錄
 * 707. Design Linked List (Medium)
 * 206. Reverse Linked List (Easy)
 * 24. Swap Nodes in Pairs (Medium)
+* 19. Remove Nth Node From End of List
 
 ## Hash
